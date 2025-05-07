@@ -1,2 +1,2 @@
 # run
-day 71
+day 72
